@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BaltaAPI.props" />
+</Project>
