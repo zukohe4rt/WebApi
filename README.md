@@ -47,7 +47,3 @@ Este projeto é uma aplicação WebAPI desenvolvida em .NET 7, oferecendo opera�
 5. Acesse os endpoints conforme descrito acima usando uma ferramenta como Postman ou cURL.
 
 
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
